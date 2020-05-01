@@ -4,7 +4,7 @@
  <title></title>
  <link href="http://dangeng.github.io/blog/atom.xml" rel="self"/>
  <link href="http://dangeng.github.io/blog/"/>
- <updated>2020-04-30T19:59:45-07:00</updated>
+ <updated>2020-04-30T21:25:52-07:00</updated>
  <id>http://dangeng.github.io</id>
  <author>
    <name>Daniel Geng</name>
@@ -60,7 +60,7 @@
 &lt;p&gt;This post mainly contains interesting correlations and trends in the data. You can see a presentation of just the &lt;a href=&quot;https://berkeley206399.typeform.com/report/YvzqQp/hKNOBS5tFVGJ36Y4&quot; target=&quot;_blank&quot;&gt;aggregate responses here.&lt;/a&gt;&lt;/p&gt;
 
 &lt;div align=&quot;middle&quot;&gt;
-&lt;img src=&quot;/blog/public/imgs/tsne.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
+&lt;img src=&quot;/blog/public/bmp/imgs/tsne.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
 &lt;figcaption align=&quot;middle&quot;&gt;t-SNE visualization of survey responses. &lt;a href=&quot;https://distill.pub/2016/misread-tsne/&quot; target=&quot;_blank&quot;&gt;We honestly have no idea what the clusters mean.&lt;/a&gt;&lt;/figcaption&gt;
 &lt;/div&gt;
 
@@ -79,15 +79,15 @@
 &lt;p&gt;Let’s start with the sexual stuff:&lt;/p&gt;
 
 &lt;div align=&quot;middle&quot;&gt;
-&lt;img src=&quot;/blog/public/imgs/innocence/num_sexual_year.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
+&lt;img src=&quot;/blog/public/bmp/imgs/innocence/num_sexual_year.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
 &lt;/div&gt;
 
 &lt;div align=&quot;middle&quot;&gt;
-&lt;img src=&quot;/blog/public/imgs/innocence/adventurousness_year.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
+&lt;img src=&quot;/blog/public/bmp/imgs/innocence/adventurousness_year.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
 &lt;/div&gt;
 
 &lt;div align=&quot;middle&quot;&gt;
-&lt;img src=&quot;/blog/public/imgs/innocence/num_dates_year.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
+&lt;img src=&quot;/blog/public/bmp/imgs/innocence/num_dates_year.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
 &lt;/div&gt;
 
 &lt;p&gt;So all in all, people have had more sexual partners, become more sexually adventurous, and get more desperate as they grow older. It’s probably as good a time as any to point out that the error bars capture a 95% confidence interval.&lt;/p&gt;
@@ -98,7 +98,7 @@
 &lt;p&gt;We can also take a look at various substances that people put in their bodies:&lt;/p&gt;
 
 &lt;div align=&quot;middle&quot;&gt;
-&lt;img src=&quot;/blog/public/imgs/innocence/alc_choice_year.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
+&lt;img src=&quot;/blog/public/bmp/imgs/innocence/alc_choice_year.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
 &lt;/div&gt;
 
 &lt;p&gt;It’s interesting to note that vodka preference drops drastically with age. Perhaps fueled by the &lt;em&gt;“omg I fucking love to drink, vodka is my favorite, I’m so cool”&lt;/em&gt; to &lt;em&gt;“holy shit I’m literally just guzzling industrial grade solvents what am I doing with my life”&lt;/em&gt; transition that most people go through.&lt;/p&gt;
@@ -106,17 +106,17 @@
 &lt;p&gt;I also like how “Wine” peaks in Junior year and “Beer” just keeps rising, as if people go from &lt;em&gt;“I love vodka”&lt;/em&gt; to &lt;em&gt;“I’m fancy as fuck”&lt;/em&gt; to &lt;em&gt;“I just don’t care anymore”&lt;/em&gt;.&lt;/p&gt;
 
 &lt;div align=&quot;middle&quot;&gt;
-&lt;img src=&quot;/blog/public/imgs/innocence/marijuana_year.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
+&lt;img src=&quot;/blog/public/bmp/imgs/innocence/marijuana_year.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
 &lt;/div&gt;
 
 &lt;div align=&quot;middle&quot;&gt;
-&lt;img src=&quot;/blog/public/imgs/innocence/boba_year.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
+&lt;img src=&quot;/blog/public/bmp/imgs/innocence/boba_year.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
 &lt;/div&gt;
 
 &lt;p&gt;It’s interesting how boba consumption drops off as well, perhaps because seniors have finally come to terms with the fact that they can’t put just anything in to their bodies. In a similar vein, it seems that people actually live healthier lifestyles as they age:&lt;/p&gt;
 
 &lt;div align=&quot;middle&quot;&gt;
-&lt;img src=&quot;/blog/public/imgs/innocence/exercise_year.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
+&lt;img src=&quot;/blog/public/bmp/imgs/innocence/exercise_year.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
 &lt;/div&gt;
 
 &lt;p&gt;As a side note, while these differences seem small you have to remember that it’s really the error bars that tell the story. While the increase in absolute days of exercise is small the error bars show that this increase &lt;em&gt;is&lt;/em&gt; statistically significant.&lt;/p&gt;
@@ -124,7 +124,7 @@
 &lt;p&gt;Finally, perhaps the saddest graph in the section, we see Berkeley slowly crushing the intellectual curiosity and academic vitality out of her students. Or at least seniors just care about things a whole lot less:&lt;/p&gt;
 
 &lt;div align=&quot;middle&quot;&gt;
-&lt;img src=&quot;/blog/public/imgs/innocence/academics_year.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
+&lt;img src=&quot;/blog/public/bmp/imgs/innocence/academics_year.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
 &lt;/div&gt;
 
 &lt;hr /&gt;
@@ -140,13 +140,13 @@
 &lt;p&gt;My lawyers advised me not to say too much in this section, so here are some box and whisker plots (with the outliers removed):&lt;/p&gt;
 
 &lt;div align=&quot;middle&quot;&gt;
-&lt;img src=&quot;/blog/public/imgs/sex/num_sexual_gender.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
+&lt;img src=&quot;/blog/public/bmp/imgs/sex/num_sexual_gender.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
 &lt;/div&gt;
 
 &lt;p&gt;And the distributions for male and female:&lt;/p&gt;
 
 &lt;div align=&quot;middle&quot;&gt;
-&lt;img src=&quot;/blog/public/imgs/sex/num_sexual_gender_hist.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
+&lt;img src=&quot;/blog/public/bmp/imgs/sex/num_sexual_gender_hist.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
 &lt;/div&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -156,19 +156,19 @@
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;div align=&quot;middle&quot;&gt;
-&lt;img src=&quot;/blog/public/imgs/sex/num_sexual_race.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
+&lt;img src=&quot;/blog/public/bmp/imgs/sex/num_sexual_race.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
 &lt;/div&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;div align=&quot;middle&quot;&gt;
-&lt;img src=&quot;/blog/public/imgs/sex/num_sexual_religion.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
+&lt;img src=&quot;/blog/public/bmp/imgs/sex/num_sexual_religion.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
 &lt;/div&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;div align=&quot;middle&quot;&gt;
-&lt;img src=&quot;/blog/public/imgs/sex/num_sexual_sexuality.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
+&lt;img src=&quot;/blog/public/bmp/imgs/sex/num_sexual_sexuality.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
 &lt;/div&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -177,7 +177,7 @@
 &lt;p&gt;If we plot out “number of sexual partners” against “importance of academics” we get an interesting trend:&lt;/p&gt;
 
 &lt;div align=&quot;middle&quot;&gt;
-&lt;img src=&quot;/blog/public/imgs/sex/academics_num_sexual.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
+&lt;img src=&quot;/blog/public/bmp/imgs/sex/academics_num_sexual.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
 &lt;/div&gt;
 
 &lt;p&gt;It’s sort of sad to see that there seems to be a rather depressed portion of Berkeley students that are not only apathetic towards academics, but can’t get any sex either. You would think the relationship should be the other way around (students that don’t care about academics should have boat-loads of sex), and this is true except for the students who just don’t care about academics at all.&lt;/p&gt;
@@ -186,7 +186,7 @@
 &lt;p&gt;This is probably one of my favorite plots:&lt;/p&gt;
 
 &lt;div align=&quot;middle&quot;&gt;
-&lt;img src=&quot;/blog/public/imgs/sex/num_sexual_political.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
+&lt;img src=&quot;/blog/public/bmp/imgs/sex/num_sexual_political.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
 &lt;/div&gt;
 
 &lt;p&gt;Look at how beautiful this U-shape is. The underlying mechanism here is probably that politically extreme people are also extreme in other parts of their lives.&lt;/p&gt;
@@ -204,15 +204,15 @@
 &lt;p&gt;This is the part of the post where we simultaneously marvel at how the Right basically writes our jokes for us and try not to be featured on “Fox and Friends.”&lt;/p&gt;
 
 &lt;div align=&quot;middle&quot;&gt;
-&lt;img src=&quot;/blog/public/imgs/politics/academics_political.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
+&lt;img src=&quot;/blog/public/bmp/imgs/politics/academics_political.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
 &lt;/div&gt;
 
 &lt;div align=&quot;middle&quot;&gt;
-&lt;img src=&quot;/blog/public/imgs/politics/num_children_political.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
+&lt;img src=&quot;/blog/public/bmp/imgs/politics/num_children_political.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
 &lt;/div&gt;
 
 &lt;div align=&quot;middle&quot;&gt;
-&lt;img src=&quot;/blog/public/imgs/politics/num_dates_political.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
+&lt;img src=&quot;/blog/public/bmp/imgs/politics/num_dates_political.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
 &lt;/div&gt;
 
 &lt;hr /&gt;
@@ -228,11 +228,11 @@
 &lt;p&gt;Berkeley students are surprisingly healthy:&lt;/p&gt;
 
 &lt;div align=&quot;middle&quot;&gt;
-&lt;img src=&quot;/blog/public/imgs/health/exercise.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
+&lt;img src=&quot;/blog/public/bmp/imgs/health/exercise.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
 &lt;/div&gt;
 
 &lt;div align=&quot;middle&quot;&gt;
-&lt;img src=&quot;/blog/public/imgs/health/boba.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
+&lt;img src=&quot;/blog/public/bmp/imgs/health/boba.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
 &lt;/div&gt;
 
 &lt;hr /&gt;
@@ -248,29 +248,141 @@
 &lt;p&gt;The last question we asked was “Are you smarter than the average (Cal) Bear?” 46.2% of people responded yes to this question, but things start to get interesting when you break down the results by other categories. For example, let’s start with gender. We plot the proportion of people that answered “yes” to the question:&lt;/p&gt;
 
 &lt;div align=&quot;middle&quot;&gt;
-&lt;img src=&quot;/blog/public/imgs/smarter/smarter_gender.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
+&lt;img src=&quot;/blog/public/bmp/imgs/smarter/smarter_gender.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
 &lt;/div&gt;
 
 &lt;p&gt;60% of men say they are smarter, while only 30% of women think they are smarter than average. The difference is stark. The percentages are even worse if we look at race:&lt;/p&gt;
 
 &lt;div align=&quot;middle&quot;&gt;
-&lt;img src=&quot;/blog/public/imgs/smarter/smarter_race.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
+&lt;img src=&quot;/blog/public/bmp/imgs/smarter/smarter_race.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
 &lt;/div&gt;
 
 &lt;div id=&quot;fish&quot;&gt;&lt;/div&gt;
 &lt;p&gt;On a lighter note it seems that fish-people are for some strange reason very confident:&lt;/p&gt;
 
 &lt;div align=&quot;middle&quot;&gt;
-&lt;img src=&quot;/blog/public/imgs/smarter/smarter_pet.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
+&lt;img src=&quot;/blog/public/bmp/imgs/smarter/smarter_pet.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
 &lt;/div&gt;
 
 &lt;div id=&quot;dunning&quot;&gt;&lt;/div&gt;
 &lt;p&gt;Finally, if we break the data down by “Perceived importance of academics” we get an interesting Dunning-Kruger-esque trend:&lt;/p&gt;
 
 &lt;div align=&quot;middle&quot;&gt;
-&lt;img src=&quot;/blog/public/imgs/smarter/smarter_academics.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
+&lt;img src=&quot;/blog/public/bmp/imgs/smarter/smarter_academics.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
 &lt;/div&gt;
 
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Berkeley Public Piano</title>
+   <link href="http://dangeng.github.io/2018/08/05/berkeley-piano/"/>
+   <updated>2018-08-05T00:00:00-07:00</updated>
+   <id>http://dangeng.github.io/blog/2018/08/05/berkeley-piano</id>
+   <content type="html">&lt;h2 id=&quot;overview&quot;&gt;Overview&lt;/h2&gt;
+
+&lt;p&gt;If you visit UC Berkeley you may encounter a brightly painted piano on Sproul Plaza, the main thoroughfare on the south side of campus. If you’re lucky you might hear some beautiful music from the piano. If you’re unlucky the piano may have already been removed, demolished, vandalized, or have otherwise met some unsavory end. Either way, this post is to recount the tale of how the piano ended up there in the first place.&lt;/p&gt;
+
+&lt;p&gt;The Berkeley Public Piano is my brainchild and was the result of much work by a close group of friends and me. We were all united in the goal of bringing the joy of music to an otherwise dreary and sterile campus. We were tired of students walking with their headphones in and eyes on the ground, rushing to their next class or to the library to finish their homework and ignoring the world around them. We wanted people to slow down and appreciate life. We wanted to see if we could unite people through music.&lt;/p&gt;
+
+&lt;p&gt;In addition to such lofty goals this project was also my personal little social experiment. When I would talk about putting a piano in public I would invariably receive responses such as: “The piano won’t last a week”, “People will steal it and vandalize it”, “Homeless people will trash it.” Putting a piano on Sproul was my humble attempt to refute these statements and to show that humans are essentially good.&lt;/p&gt;
+
+&lt;h2 id=&quot;inspiration&quot;&gt;Inspiration&lt;/h2&gt;
+
+&lt;p&gt;The summer of 2017 I visited Denver. There, on the 16th street mall I found brightly colored pianos on every block, free to use by anyone who wanted to. In addition to being impressed, I was slightly miffed that Berkeley did not have one.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/denver_piano.jpg&quot; alt=&quot;Denver piano&quot; /&gt;&lt;/p&gt;
+
+&lt;div align=&quot;middle&quot;&gt;
+&lt;img src=&quot;/blog/public/imgs/bmp/innocence/num_sexual_year.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
+&lt;/div&gt;
+
+&lt;center&gt; A piano from the 16th street mall &lt;/center&gt;
+
+&lt;h2 id=&quot;feedback&quot;&gt;Feedback&lt;/h2&gt;
+
+&lt;p&gt;Arriving at Berkeley after the summer, I told anybody who would listen about a potential public piano. The typical response went something like this:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Wow that sounds really cool&lt;/li&gt;
+  &lt;li&gt;Wait, how would you get a piano?&lt;/li&gt;
+  &lt;li&gt;Wait, who would pay for it?&lt;/li&gt;
+  &lt;li&gt;Wait, how would you transport it?&lt;/li&gt;
+  &lt;li&gt;Wait, wouldn’t it be vandalized?&lt;/li&gt;
+  &lt;li&gt;Wait, wouldn’t it be stolen?&lt;/li&gt;
+  &lt;li&gt;Wait, wouldn’t the administration take it away?&lt;/li&gt;
+  &lt;li&gt;Wait, what if it rains?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Evidently, there were many hurdles to overcome.&lt;/p&gt;
+
+&lt;h2 id=&quot;acquiring-a-piano&quot;&gt;Acquiring a Piano&lt;/h2&gt;
+
+&lt;p&gt;As everybody knows, the first step to putting a public piano on Sproul is to obtain a piano. And as it turns out there are many free pianos on &lt;a href=&quot;https://sfbay.craigslist.org/search/eby/sss?sort=rel&amp;amp;query=free+piano&quot; target=&quot;_blank&quot;&gt;Craigslist&lt;/a&gt; (I’d say maybe 4-5 in East Bay every week). This is because there are many people who want to be rid of their piano but don’t want to pay to get it moved out. Thus, they offer the piano for free under the condition that you provide transportation. I set up alerts for free pianos in east bay and waited for the free pianos to roll in.&lt;/p&gt;
+
+&lt;p&gt;I ended up visiting two houses with pianos. One on Albany Hill and one in the Berkeley Hills. Both pianos were utterly massive and had to be carried down a narrow flight of stairs. I gave up on both.&lt;/p&gt;
+
+&lt;p&gt;Finally, I received an alert about a piano in Oakland. It was perfect: on wheels, easily accessible, short drive away. I decided to go for this one. At this point in time I was really the only person working on this project and I’m pretty sure everybody assumed I was delusional. Nevertheless, I convinced my roommate, Max, to come help me pick it up. I rented a U-Haul (total cost about $60) and Max and I hauled the piano back to Berkeley.&lt;/p&gt;
+
+&lt;p&gt;As it turned out, the piano was perfect except for one thing: it was broken beyond repair. Most of the notes worked but they were all very out of tune. More than a few notes simply didn’t play. (&lt;strong&gt;Spoiler:&lt;/strong&gt; This piano is not the piano currently on Sproul).&lt;/p&gt;
+
+&lt;h2 id=&quot;languishing&quot;&gt;Languishing&lt;/h2&gt;
+
+&lt;p&gt;The piano sat in our apartment for about 5 months. I blame procrastination and too much school work and general laziness.&lt;/p&gt;
+
+&lt;h2 id=&quot;inspiration-1&quot;&gt;Inspiration&lt;/h2&gt;
+
+&lt;p&gt;With about a month left of school, I was suddenly struck by the inspiration that is my lease coming to a close. Faced with the prospect of getting kicked out of my apartment and having an entire piano to deal with I decided to finally put the piano on Sproul. To the best of my ability I repaired the broken keys and gathered a group of friends. At around 2 am (to avoid weird looks) we rolled the piano through Southside (we received many weird looks) and on to Sproul plaza. It was a good time.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;//original_piano.jpg&quot; alt=&quot;The original piano&quot; /&gt;&lt;/p&gt;
+
+&lt;center&gt;The original piano the night we put it up (don't ask about the red oven mitt)&lt;/center&gt;
+&lt;center&gt;&lt;b&gt;Left to Right:&lt;/b&gt; Mimi, Allan, Daniel, David, Josh, Max, Jonas&lt;/center&gt;
+&lt;center&gt; &lt;b&gt;Photo creds:&lt;/b&gt; Richard &lt;/center&gt;
+
+&lt;h2 id=&quot;success-and-disaster&quot;&gt;Success and Disaster&lt;/h2&gt;
+
+&lt;p&gt;The piano caused quite a stir. For three or four days it stood on Sproul plaza with people marveling at it’s mysterious appearance. Scenes like this were common:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/original_piano_1.jpg&quot; alt=&quot;The new piano&quot; /&gt;&lt;/p&gt;
+&lt;center&gt; Three separate groups of strangers, swept out of the rat-race of life to enjoy a little music and each other's company&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;But alas, all good things must come to and end. As abruptly as the piano had appeared, it dissapeared. Nobody knew where it was. The theory that was floating around was that people had stolen the piano.&lt;/p&gt;
+
+&lt;p&gt;My theory is that people had simply assumed the piano was up for grabs. There was no signage to indicate that the piano was meant to be shared, nothing to imply that the piano should stay on Sproul, nor was it entirely obvious what the function of a dilapidated piano was on Sproul Plaza. Why anybody would possibly want such a crappy piano I have no idea, but I attribute this ostensibly ugly display of the dark side of human nature to a simple misunderstanding.&lt;/p&gt;
+
+&lt;p&gt;Whatever the case may be, it was evident that we had hit upon something. Here is a message we received from the person on the piano bench in the picture above:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;I really just wanted to reach out to say thank you guys for putting that out there. Piano throughout my life was a huge outlet, and I haven’t been able to get my hands on a real acoustic one around Berkeley in a long time. That photo was also taken about 30 minutes after I got my backpack and laptop stolen on campus; I was absolutely devastated and really needed to vent, and the piano really just happened to be there, which is something I have never seen on campus in my 7 years of being around the area. I played it that evening, and came onto campus for about an hour or so the next day and played some more, and I really think it helped me get through the past couple of days.&lt;/p&gt;
+
+  &lt;p&gt;I know it was just a social experiment, but I just wanted to let ya know it really helped me get through a hard time. Thanks again :)”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It was messages like these that made it clear to us that we &lt;em&gt;had&lt;/em&gt; to put another, better piano up.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-second-chance&quot;&gt;A Second Chance&lt;/h2&gt;
+
+&lt;p&gt;In the wake of the publicity that the original piano had received, I had no trouble finding a group of people willing to sell their piano to put on Sproul. Phoebe, a Cal student, was selling one for $200 and even offered to paint it with her art friends (they did a fantastic job if I may say so myself).&lt;/p&gt;
+
+&lt;p&gt;In addition to a new piano with a paint job, I endeavored to make it completely obvious that the piano was to be for the public. To that effect I bought some chains and a lock from Ace Hardware to tie the piano down, and also made a sign for the piano. Moreover, this second piano had no wheels making it ludicrously difficult to move (a hindrance while we were attempting to move it, but an advantage in preventing it from being moved).&lt;/p&gt;
+
+&lt;p&gt;Once again, at around 1 am a group of friends and I lugged the piano (on a luggage cart stolen from Unit 2) on to Sproul.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/new_piano.jpg&quot; alt=&quot;The new piano&quot; /&gt;&lt;/p&gt;
+
+&lt;center&gt;Take two!&lt;/center&gt;
+&lt;center&gt;&lt;b&gt;Left to Right:&lt;/b&gt; Richard, Tae, Josh, Allan, Daniel, David, Thu, Mimi&lt;/center&gt;
+&lt;center&gt; &lt;b&gt;Photo creds:&lt;/b&gt; Jonas &lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;For the next couple weeks there was hardly a moment that the piano was not being played. This time, the piano stayed.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/new_piano_1.jpg&quot; alt=&quot;The new piano&quot; /&gt;&lt;/p&gt;
+
+&lt;center&gt;The new piano in all it's glory! (Complete with raunchy joke on the bench)&lt;center&gt;
+&lt;/center&gt;&lt;/center&gt;
 </content>
  </entry>
  
