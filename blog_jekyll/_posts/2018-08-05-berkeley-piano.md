@@ -17,13 +17,10 @@ In addition to such lofty goals this project was also my personal little social 
 
 The summer of 2017 I visited Denver. There, on the 16th street mall I found brightly colored pianos on every block, free to use by anyone who wanted to. In addition to being impressed, I was slightly miffed that Berkeley did not have one.
 
-![Denver piano]({{ imgPath }}/denver_piano.jpg)
-
 <div align="middle">
-<img src="{{ site.baseurl }}/public/imgs/bmp/innocence/num_sexual_year.png" align="middle" width="600px"/>
+<img src="{{ site.baseurl }}/public/imgs/piano/denver_piano.jpg" align="middle" width="600px"/>
 </div>
-
-<center> A piano from the 16th street mall </center>
+<figcaption align="middle">A piano from the 16th street mall <a href="https://distill.pub/2016/misread-tsne/" target="_blank">Denver piano</a></figcaption>
 
 ## Feedback
 

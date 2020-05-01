@@ -4,7 +4,7 @@
  <title></title>
  <link href="http://dangeng.github.io/blog/atom.xml" rel="self"/>
  <link href="http://dangeng.github.io/blog/"/>
- <updated>2020-04-30T21:36:36-07:00</updated>
+ <updated>2020-04-30T22:03:02-07:00</updated>
  <id>http://dangeng.github.io</id>
  <author>
    <name>Daniel Geng</name>
@@ -291,13 +291,10 @@
 
 &lt;p&gt;The summer of 2017 I visited Denver. There, on the 16th street mall I found brightly colored pianos on every block, free to use by anyone who wanted to. In addition to being impressed, I was slightly miffed that Berkeley did not have one.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/denver_piano.jpg&quot; alt=&quot;Denver piano&quot; /&gt;&lt;/p&gt;
-
 &lt;div align=&quot;middle&quot;&gt;
-&lt;img src=&quot;/blog/public/imgs/bmp/innocence/num_sexual_year.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
+&lt;img src=&quot;/blog/public/imgs/piano/denver_piano.jpg&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
 &lt;/div&gt;
-
-&lt;center&gt; A piano from the 16th street mall &lt;/center&gt;
+&lt;figcaption align=&quot;middle&quot;&gt;A piano from the 16th street mall &lt;a href=&quot;https://distill.pub/2016/misread-tsne/&quot; target=&quot;_blank&quot;&gt;Denver piano&lt;/a&gt;&lt;/figcaption&gt;
 
 &lt;h2 id=&quot;feedback&quot;&gt;Feedback&lt;/h2&gt;
 
