@@ -2,7 +2,7 @@
 layout: post
 title: Berkeley Public Piano
 author: Daniel Geng
-teaser: "The story of how we put a piano on Sproul Plaza"
+teaser: The story of how we put (multiple) pianos on the campus of UC Berkeley.
 ---
 
 ### A few updates (April 2020)
