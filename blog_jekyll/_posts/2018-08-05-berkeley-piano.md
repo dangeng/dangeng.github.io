@@ -70,6 +70,7 @@ The piano caused quite a stir. For three or four days it stood on Sproul plaza w
 <img src="{{ site.baseurl }}/public/imgs/piano/original_piano_1.jpg" align="middle" width="600px"/>
 </div>
 <figcaption align="middle">Three separate groups of strangers, swept out of the rat-race of life to enjoy a little music and each other's company</figcaption>
+<br>
 
 But alas, all good things must come to and end. As abruptly as the piano had appeared, it dissapeared. Nobody knew where it was. The theory that was floating around was that people had stolen the piano. 
 
@@ -97,6 +98,7 @@ Once again, at around 1 am a group of friends and I lugged the piano (on a lugga
 <figcaption align="middle">Take two!</figcaption>
 <figcaption align="middle"><b>Left to Right:</b> Richard, Tae, Josh, Allan, Daniel, David, Thu, Mimi</figcaption>
 <figcaption align="middle"><b>Photo creds:</b> Jonas</figcaption>
+<br>
 
 For the next couple weeks there was hardly a moment that the piano was not being played. This time, the piano stayed. 
 
