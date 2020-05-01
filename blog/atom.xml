@@ -4,7 +4,7 @@
  <title></title>
  <link href="http://dangeng.github.io/blog/atom.xml" rel="self"/>
  <link href="http://dangeng.github.io/blog/"/>
- <updated>2020-04-30T19:51:59-07:00</updated>
+ <updated>2020-04-30T19:59:45-07:00</updated>
  <id>http://dangeng.github.io</id>
  <author>
    <name>Daniel Geng</name>
@@ -60,7 +60,7 @@
 &lt;p&gt;This post mainly contains interesting correlations and trends in the data. You can see a presentation of just the &lt;a href=&quot;https://berkeley206399.typeform.com/report/YvzqQp/hKNOBS5tFVGJ36Y4&quot; target=&quot;_blank&quot;&gt;aggregate responses here.&lt;/a&gt;&lt;/p&gt;
 
 &lt;div align=&quot;middle&quot;&gt;
-&lt;img src=&quot;/public/imgs/tsne.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
+&lt;img src=&quot;/blog/public/imgs/tsne.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
 &lt;figcaption align=&quot;middle&quot;&gt;t-SNE visualization of survey responses. &lt;a href=&quot;https://distill.pub/2016/misread-tsne/&quot; target=&quot;_blank&quot;&gt;We honestly have no idea what the clusters mean.&lt;/a&gt;&lt;/figcaption&gt;
 &lt;/div&gt;
 
@@ -79,15 +79,15 @@
 &lt;p&gt;Let’s start with the sexual stuff:&lt;/p&gt;
 
 &lt;div align=&quot;middle&quot;&gt;
-&lt;img src=&quot;/public/imgs/innocence/num_sexual_year.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
+&lt;img src=&quot;/blog/public/imgs/innocence/num_sexual_year.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
 &lt;/div&gt;
 
 &lt;div align=&quot;middle&quot;&gt;
-&lt;img src=&quot;/public/imgs/innocence/adventurousness_year.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
+&lt;img src=&quot;/blog/public/imgs/innocence/adventurousness_year.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
 &lt;/div&gt;
 
 &lt;div align=&quot;middle&quot;&gt;
-&lt;img src=&quot;/public/imgs/innocence/num_dates_year.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
+&lt;img src=&quot;/blog/public/imgs/innocence/num_dates_year.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
 &lt;/div&gt;
 
 &lt;p&gt;So all in all, people have had more sexual partners, become more sexually adventurous, and get more desperate as they grow older. It’s probably as good a time as any to point out that the error bars capture a 95% confidence interval.&lt;/p&gt;
@@ -98,7 +98,7 @@
 &lt;p&gt;We can also take a look at various substances that people put in their bodies:&lt;/p&gt;
 
 &lt;div align=&quot;middle&quot;&gt;
-&lt;img src=&quot;/public/imgs/innocence/alc_choice_year.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
+&lt;img src=&quot;/blog/public/imgs/innocence/alc_choice_year.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
 &lt;/div&gt;
 
 &lt;p&gt;It’s interesting to note that vodka preference drops drastically with age. Perhaps fueled by the &lt;em&gt;“omg I fucking love to drink, vodka is my favorite, I’m so cool”&lt;/em&gt; to &lt;em&gt;“holy shit I’m literally just guzzling industrial grade solvents what am I doing with my life”&lt;/em&gt; transition that most people go through.&lt;/p&gt;
@@ -106,17 +106,17 @@
 &lt;p&gt;I also like how “Wine” peaks in Junior year and “Beer” just keeps rising, as if people go from &lt;em&gt;“I love vodka”&lt;/em&gt; to &lt;em&gt;“I’m fancy as fuck”&lt;/em&gt; to &lt;em&gt;“I just don’t care anymore”&lt;/em&gt;.&lt;/p&gt;
 
 &lt;div align=&quot;middle&quot;&gt;
-&lt;img src=&quot;/public/imgs/innocence/marijuana_year.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
+&lt;img src=&quot;/blog/public/imgs/innocence/marijuana_year.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
 &lt;/div&gt;
 
 &lt;div align=&quot;middle&quot;&gt;
-&lt;img src=&quot;/public/imgs/innocence/boba_year.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
+&lt;img src=&quot;/blog/public/imgs/innocence/boba_year.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
 &lt;/div&gt;
 
 &lt;p&gt;It’s interesting how boba consumption drops off as well, perhaps because seniors have finally come to terms with the fact that they can’t put just anything in to their bodies. In a similar vein, it seems that people actually live healthier lifestyles as they age:&lt;/p&gt;
 
 &lt;div align=&quot;middle&quot;&gt;
-&lt;img src=&quot;/public/imgs/innocence/exercise_year.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
+&lt;img src=&quot;/blog/public/imgs/innocence/exercise_year.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
 &lt;/div&gt;
 
 &lt;p&gt;As a side note, while these differences seem small you have to remember that it’s really the error bars that tell the story. While the increase in absolute days of exercise is small the error bars show that this increase &lt;em&gt;is&lt;/em&gt; statistically significant.&lt;/p&gt;
@@ -124,7 +124,7 @@
 &lt;p&gt;Finally, perhaps the saddest graph in the section, we see Berkeley slowly crushing the intellectual curiosity and academic vitality out of her students. Or at least seniors just care about things a whole lot less:&lt;/p&gt;
 
 &lt;div align=&quot;middle&quot;&gt;
-&lt;img src=&quot;/public/imgs/innocence/academics_year.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
+&lt;img src=&quot;/blog/public/imgs/innocence/academics_year.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
 &lt;/div&gt;
 
 &lt;hr /&gt;
@@ -140,13 +140,13 @@
 &lt;p&gt;My lawyers advised me not to say too much in this section, so here are some box and whisker plots (with the outliers removed):&lt;/p&gt;
 
 &lt;div align=&quot;middle&quot;&gt;
-&lt;img src=&quot;/public/imgs/sex/num_sexual_gender.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
+&lt;img src=&quot;/blog/public/imgs/sex/num_sexual_gender.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
 &lt;/div&gt;
 
 &lt;p&gt;And the distributions for male and female:&lt;/p&gt;
 
 &lt;div align=&quot;middle&quot;&gt;
-&lt;img src=&quot;/public/imgs/sex/num_sexual_gender_hist.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
+&lt;img src=&quot;/blog/public/imgs/sex/num_sexual_gender_hist.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
 &lt;/div&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -156,19 +156,19 @@
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;div align=&quot;middle&quot;&gt;
-&lt;img src=&quot;/public/imgs/sex/num_sexual_race.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
+&lt;img src=&quot;/blog/public/imgs/sex/num_sexual_race.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
 &lt;/div&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;div align=&quot;middle&quot;&gt;
-&lt;img src=&quot;/public/imgs/sex/num_sexual_religion.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
+&lt;img src=&quot;/blog/public/imgs/sex/num_sexual_religion.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
 &lt;/div&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;div align=&quot;middle&quot;&gt;
-&lt;img src=&quot;/public/imgs/sex/num_sexual_sexuality.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
+&lt;img src=&quot;/blog/public/imgs/sex/num_sexual_sexuality.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
 &lt;/div&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -177,7 +177,7 @@
 &lt;p&gt;If we plot out “number of sexual partners” against “importance of academics” we get an interesting trend:&lt;/p&gt;
 
 &lt;div align=&quot;middle&quot;&gt;
-&lt;img src=&quot;/public/imgs/sex/academics_num_sexual.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
+&lt;img src=&quot;/blog/public/imgs/sex/academics_num_sexual.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
 &lt;/div&gt;
 
 &lt;p&gt;It’s sort of sad to see that there seems to be a rather depressed portion of Berkeley students that are not only apathetic towards academics, but can’t get any sex either. You would think the relationship should be the other way around (students that don’t care about academics should have boat-loads of sex), and this is true except for the students who just don’t care about academics at all.&lt;/p&gt;
@@ -186,7 +186,7 @@
 &lt;p&gt;This is probably one of my favorite plots:&lt;/p&gt;
 
 &lt;div align=&quot;middle&quot;&gt;
-&lt;img src=&quot;/public/imgs/sex/num_sexual_political.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
+&lt;img src=&quot;/blog/public/imgs/sex/num_sexual_political.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
 &lt;/div&gt;
 
 &lt;p&gt;Look at how beautiful this U-shape is. The underlying mechanism here is probably that politically extreme people are also extreme in other parts of their lives.&lt;/p&gt;
@@ -204,15 +204,15 @@
 &lt;p&gt;This is the part of the post where we simultaneously marvel at how the Right basically writes our jokes for us and try not to be featured on “Fox and Friends.”&lt;/p&gt;
 
 &lt;div align=&quot;middle&quot;&gt;
-&lt;img src=&quot;/public/imgs/politics/academics_political.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
+&lt;img src=&quot;/blog/public/imgs/politics/academics_political.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
 &lt;/div&gt;
 
 &lt;div align=&quot;middle&quot;&gt;
-&lt;img src=&quot;/public/imgs/politics/num_children_political.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
+&lt;img src=&quot;/blog/public/imgs/politics/num_children_political.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
 &lt;/div&gt;
 
 &lt;div align=&quot;middle&quot;&gt;
-&lt;img src=&quot;/public/imgs/politics/num_dates_political.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
+&lt;img src=&quot;/blog/public/imgs/politics/num_dates_political.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
 &lt;/div&gt;
 
 &lt;hr /&gt;
@@ -228,11 +228,11 @@
 &lt;p&gt;Berkeley students are surprisingly healthy:&lt;/p&gt;
 
 &lt;div align=&quot;middle&quot;&gt;
-&lt;img src=&quot;/public/imgs/health/exercise.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
+&lt;img src=&quot;/blog/public/imgs/health/exercise.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
 &lt;/div&gt;
 
 &lt;div align=&quot;middle&quot;&gt;
-&lt;img src=&quot;/public/imgs/health/boba.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
+&lt;img src=&quot;/blog/public/imgs/health/boba.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
 &lt;/div&gt;
 
 &lt;hr /&gt;
@@ -248,27 +248,27 @@
 &lt;p&gt;The last question we asked was “Are you smarter than the average (Cal) Bear?” 46.2% of people responded yes to this question, but things start to get interesting when you break down the results by other categories. For example, let’s start with gender. We plot the proportion of people that answered “yes” to the question:&lt;/p&gt;
 
 &lt;div align=&quot;middle&quot;&gt;
-&lt;img src=&quot;/public/imgs/smarter/smarter_gender.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
+&lt;img src=&quot;/blog/public/imgs/smarter/smarter_gender.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
 &lt;/div&gt;
 
 &lt;p&gt;60% of men say they are smarter, while only 30% of women think they are smarter than average. The difference is stark. The percentages are even worse if we look at race:&lt;/p&gt;
 
 &lt;div align=&quot;middle&quot;&gt;
-&lt;img src=&quot;/public/imgs/smarter/smarter_race.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
+&lt;img src=&quot;/blog/public/imgs/smarter/smarter_race.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
 &lt;/div&gt;
 
 &lt;div id=&quot;fish&quot;&gt;&lt;/div&gt;
 &lt;p&gt;On a lighter note it seems that fish-people are for some strange reason very confident:&lt;/p&gt;
 
 &lt;div align=&quot;middle&quot;&gt;
-&lt;img src=&quot;/public/imgs/smarter/smarter_pet.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
+&lt;img src=&quot;/blog/public/imgs/smarter/smarter_pet.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
 &lt;/div&gt;
 
 &lt;div id=&quot;dunning&quot;&gt;&lt;/div&gt;
 &lt;p&gt;Finally, if we break the data down by “Perceived importance of academics” we get an interesting Dunning-Kruger-esque trend:&lt;/p&gt;
 
 &lt;div align=&quot;middle&quot;&gt;
-&lt;img src=&quot;/public/imgs/smarter/smarter_academics.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
+&lt;img src=&quot;/blog/public/imgs/smarter/smarter_academics.png&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
 &lt;/div&gt;
 
 </content>
