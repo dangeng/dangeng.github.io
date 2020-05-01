@@ -20,7 +20,7 @@ The summer of 2017 I visited Denver. There, on the 16th street mall I found brig
 <div align="middle">
 <img src="{{ site.baseurl }}/public/imgs/piano/denver_piano.jpg" align="middle" width="600px"/>
 </div>
-<figcaption align="middle">A piano from the 16th street mall <a href="https://distill.pub/2016/misread-tsne/" target="_blank">Denver piano</a></figcaption>
+<figcaption align="middle">A piano from the 16th street mall </figcaption>
 
 ## Feedback
 
@@ -55,11 +55,12 @@ The piano sat in our apartment for about 5 months. I blame procrastination and t
 
 With about a month left of school, I was suddenly struck by the inspiration that is my lease coming to a close. Faced with the prospect of getting kicked out of my apartment and having an entire piano to deal with I decided to finally put the piano on Sproul. To the best of my ability I repaired the broken keys and gathered a group of friends. At around 2 am (to avoid weird looks) we rolled the piano through Southside (we received many weird looks) and on to Sproul plaza. It was a good time.
 
-![The original piano]({{ imgPath }}//original_piano.jpg)
-
-<center>The original piano the night we put it up (don't ask about the red oven mitt)</center>
-<center><b>Left to Right:</b> Mimi, Allan, Daniel, David, Josh, Max, Jonas</center>
-<center> <b>Photo creds:</b> Richard </center>
+<div align="middle">
+<img src="{{ site.baseurl }}/public/imgs/piano/original_piano.jpg" align="middle" width="600px"/>
+</div>
+<figcaption align="middle">The original piano the night we put it up (don't ask about the red over mitt...) </figcaption>
+<figcaption align="middle"><b>Left to Right:</b> Mimi, Allan, Daniel, David, Josh, Max, Jonas</figcaption>
+<figcaption align="middle"><b>Photo creds:</b> Richard</figcaption>
 
 ## Success and Disaster
 
