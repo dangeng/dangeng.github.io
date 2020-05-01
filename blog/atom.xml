@@ -4,7 +4,7 @@
  <title></title>
  <link href="http://dangeng.github.io/blog/atom.xml" rel="self"/>
  <link href="http://dangeng.github.io/blog/"/>
- <updated>2020-04-30T22:07:56-07:00</updated>
+ <updated>2020-04-30T22:12:28-07:00</updated>
  <id>http://dangeng.github.io</id>
  <author>
    <name>Daniel Geng</name>
@@ -342,9 +342,10 @@
 
 &lt;p&gt;The piano caused quite a stir. For three or four days it stood on Sproul plaza with people marveling at it’s mysterious appearance. Scenes like this were common:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/original_piano_1.jpg&quot; alt=&quot;The new piano&quot; /&gt;&lt;/p&gt;
-&lt;center&gt; Three separate groups of strangers, swept out of the rat-race of life to enjoy a little music and each other's company&lt;/center&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div align=&quot;middle&quot;&gt;
+&lt;img src=&quot;/blog/public/imgs/piano/original_piano_1.jpg&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
+&lt;/div&gt;
+&lt;figcaption align=&quot;middle&quot;&gt;Three separate groups of strangers, swept out of the rat-race of life to enjoy a little music and each other's company&lt;/figcaption&gt;
 
 &lt;p&gt;But alas, all good things must come to and end. As abruptly as the piano had appeared, it dissapeared. Nobody knew where it was. The theory that was floating around was that people had stolen the piano.&lt;/p&gt;
 
@@ -368,19 +369,19 @@
 
 &lt;p&gt;Once again, at around 1 am a group of friends and I lugged the piano (on a luggage cart stolen from Unit 2) on to Sproul.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/new_piano.jpg&quot; alt=&quot;The new piano&quot; /&gt;&lt;/p&gt;
-
-&lt;center&gt;Take two!&lt;/center&gt;
-&lt;center&gt;&lt;b&gt;Left to Right:&lt;/b&gt; Richard, Tae, Josh, Allan, Daniel, David, Thu, Mimi&lt;/center&gt;
-&lt;center&gt; &lt;b&gt;Photo creds:&lt;/b&gt; Jonas &lt;/center&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div align=&quot;middle&quot;&gt;
+&lt;img src=&quot;/blog/public/imgs/piano/new_piano.jpg&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
+&lt;/div&gt;
+&lt;figcaption align=&quot;middle&quot;&gt;Take two!&lt;/figcaption&gt;
+&lt;figcaption align=&quot;middle&quot;&gt;&lt;b&gt;Left to Right:&lt;/b&gt; Richard, Tae, Josh, Allan, Daniel, David, Thu, Mimi&lt;/figcaption&gt;
+&lt;figcaption align=&quot;middle&quot;&gt;&lt;b&gt;Photo creds:&lt;/b&gt; Jonas&lt;/figcaption&gt;
 
 &lt;p&gt;For the next couple weeks there was hardly a moment that the piano was not being played. This time, the piano stayed.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/new_piano_1.jpg&quot; alt=&quot;The new piano&quot; /&gt;&lt;/p&gt;
-
-&lt;center&gt;The new piano in all it's glory! (Complete with raunchy joke on the bench)&lt;center&gt;
-&lt;/center&gt;&lt;/center&gt;
+&lt;div align=&quot;middle&quot;&gt;
+&lt;img src=&quot;/blog/public/imgs/piano/new_piano_1.jpg&quot; align=&quot;middle&quot; width=&quot;600px&quot; /&gt;
+&lt;/div&gt;
+&lt;figcaption align=&quot;middle&quot;&gt;The new piano in all it's glory! (Complete with raunchy joke on the bench)&lt;/figcaption&gt;
 </content>
  </entry>
  

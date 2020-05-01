@@ -66,8 +66,10 @@ With about a month left of school, I was suddenly struck by the inspiration that
 
 The piano caused quite a stir. For three or four days it stood on Sproul plaza with people marveling at it's mysterious appearance. Scenes like this were common:
 
-![The new piano]({{ imgPath }}/original_piano_1.jpg)
-<center> Three separate groups of strangers, swept out of the rat-race of life to enjoy a little music and each other's company</center><br>
+<div align="middle">
+<img src="{{ site.baseurl }}/public/imgs/piano/original_piano_1.jpg" align="middle" width="600px"/>
+</div>
+<figcaption align="middle">Three separate groups of strangers, swept out of the rat-race of life to enjoy a little music and each other's company</figcaption>
 
 But alas, all good things must come to and end. As abruptly as the piano had appeared, it dissapeared. Nobody knew where it was. The theory that was floating around was that people had stolen the piano. 
 
@@ -89,14 +91,16 @@ In addition to a new piano with a paint job, I endeavored to make it completely 
 
 Once again, at around 1 am a group of friends and I lugged the piano (on a luggage cart stolen from Unit 2) on to Sproul. 
 
-![The new piano]({{ imgPath }}/new_piano.jpg)
-
-<center>Take two!</center>
-<center><b>Left to Right:</b> Richard, Tae, Josh, Allan, Daniel, David, Thu, Mimi</center>
-<center> <b>Photo creds:</b> Jonas </center><br>
+<div align="middle">
+<img src="{{ site.baseurl }}/public/imgs/piano/new_piano.jpg" align="middle" width="600px"/>
+</div>
+<figcaption align="middle">Take two!</figcaption>
+<figcaption align="middle"><b>Left to Right:</b> Richard, Tae, Josh, Allan, Daniel, David, Thu, Mimi</figcaption>
+<figcaption align="middle"><b>Photo creds:</b> Jonas</figcaption>
 
 For the next couple weeks there was hardly a moment that the piano was not being played. This time, the piano stayed. 
 
-![The new piano]({{ imgPath }}/new_piano_1.jpg)
-
-<center>The new piano in all it's glory! (Complete with raunchy joke on the bench)<center>
+<div align="middle">
+<img src="{{ site.baseurl }}/public/imgs/piano/new_piano_1.jpg" align="middle" width="600px"/>
+</div>
+<figcaption align="middle">The new piano in all it's glory! (Complete with raunchy joke on the bench)</figcaption>
