@@ -1,0 +1,27 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+#relative_permalinks: true
+
+# Setup
+title:               ''
+tagline:             ''
+description:         'My Blog'
+url:                 http://dangeng.github.io
+baseurl:             '/blog'
+paginate:            5
+
+# About/contact
+author:
+  name:              Daniel Geng
+  url:               
+  email:             berkeleymarriagepact@gmail.com
+
+# Custom vars
+version:             1.0.0
+
+plugins: [jekyll-paginate]
+
+# Build
+destination: ../blog
