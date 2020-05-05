@@ -16,5 +16,11 @@
       </div>
     </div>
 
+    {% if page.id == 'home' %}
+      <a href="{{ site.url }}/"><label class="sidebar-toggle" style="width=0rem;">🡨</label></a>
+    {% else %}
+      <a href="{{ site.baseurl }}/"><label class="sidebar-toggle">🡨</label></a>
+    {% endif %}
+
   </body>
 </html>
