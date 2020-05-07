@@ -571,5 +571,5 @@ a.pagination-item:hover {
 /* Style figcaption */
 figcaption {
   font-size: 18px;
-  width: 70%;
+  padding: 0% 20%;
 }

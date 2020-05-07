@@ -87,7 +87,7 @@ We rallied a group of friends for the job. It was suggested that we might be tic
 The piano caused quite a stir. For three or four days it stood on Sproul plaza with people marveling at it's mysterious appearance. Scenes like this were common:
 
 <div align="middle">
-<img src="{{ site.baseurl }}/public/imgs/piano/original_piano_1.jpg" align="middle" width="600px"/>
+<img src="{{ site.baseurl }}/public/imgs/piano/original_piano_1_cropped.jpg" align="middle" width="600px"/>
 </div>
 <figcaption align="middle">Three separate groups of strangers, swept out of the rat-race of life to enjoy a little music and each other's company!</figcaption>
 <br>
