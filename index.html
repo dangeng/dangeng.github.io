@@ -53,7 +53,7 @@
             <td style="padding:20px;width:100%;vertical-align:middle">
               <heading>Research</heading>
               <p>
-                My research currently involves creating better image similarity metrics for image and video prediction. More broadly, I am interested in representation learning, multimodal learning, and image and video synthesis.
+                My research currently involves leveraging differetiable physical models of the world for synthesis and understanding of images and videos. In particular I focus on differentiable optical flow networks but am broadly interested in any physical model. I am also interested in representation learning and multimodal learning.
               </p>
             </td>
           </tr>
@@ -64,23 +64,73 @@
           <tr>
             <td style="padding:20px;width:25%;vertical-align:middle">
               <div class="one">
+                <img src="images/motion_guidance.png", width=100%>
+              </div>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="#" onclick="return false;">
+                <papertitle>Motion Guidance: Zero-Shot Flow-Based Editing with Diffusion Models
+                </papertitle>
+              </a>
+              <br>
+              <strong>Daniel Geng*</strong>, Andrew Owens
+              <br>
+              <em>In submission</em> &nbsp
+              <br>
+              <p></p>
+              <p>We achieve diffusion guidance through off-the-shelf optical flow networks. This enables zero-shot <em>motion based</em> image editing. </p>
+
+              links &nbsp/&nbsp
+              coming &nbsp/&nbsp
+              soon!
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
+                <img src="images/motionmag.gif", width=100%>
+              </div>
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle">
+              <a href="#" onclick="return false;">
+                <papertitle>Self-Supervised Lagrangian Motion Magnification
+                </papertitle>
+              </a>
+              <br>
+              <strong>Daniel Geng*</strong>, Zhaoying Pan*, Andrew Owens
+              <br>
+              <em>In submission</em> &nbsp
+              <br>
+              <p></p>
+              <p>By differentiating through off-the-shelf optical flow networks we can train motion magnification models in a fully self-supervised manner.</p>
+
+              links &nbsp/&nbsp
+              coming &nbsp/&nbsp
+              soon!
+            </td>
+          </tr>
+
+          <tr>
+            <td style="padding:20px;width:25%;vertical-align:middle">
+              <div class="one">
                 <img src="images/comparing_corrs.png", width=100%>
               </div>
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle">
-              <a href="https://arxiv.org/pdf/2104.09498.pdf" target="_blank">
+              <a href="https://arxiv.org/abs/2104.09498" target="_blank">
                 <papertitle>Comparing Correspondences: Video Prediction with Correspondence-wise Losses
                 </papertitle>
               </a>
               <br>
               <strong>Daniel Geng</strong>, Max Hamilton, Andrew Owens
               <br>
-              <em>In Submission</em> &nbsp
+              <em>CVPR</em>, 2022 &nbsp
               <br>
               <p></p>
               <p>Pixelwise losses compare pixels by absolute location. Instead, comparing pixels to their <em>semantic correspondences</em> surprisingly yields better results.</p>
 
-              <a href ="https://arxiv.org/pdf/2104.09498.pdf" target="_blank">arxiv</a> &nbsp/&nbsp
+              <a href ="https://arxiv.org/abs/2104.09498" target="_blank">arxiv</a> &nbsp/&nbsp
               <a href ="https://dangeng.github.io/CorrWiseLosses/" target="_blank">webpage</a> &nbsp/&nbsp
               <a href ="https://github.com/dangeng/CorrWiseLosses"/ target="_blank">code</a>
             </td>
@@ -148,8 +198,6 @@
               </a>
               <br>
               Sayna Ebrahimi, <strong>Daniel Geng</strong>, Trevor Darrell
-              <br>
-              <em>Unpublished</em> &nbsp
               <br>
               <p></p>
               <p>Given any classification architecture, we can augment it with a confidence network that outputs calibrated class probabilities.</p>
